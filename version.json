@@ -1,0 +1,60 @@
+{
+  "version": "2026.10.27.1304",
+  "timestamp": "2026-10-27T18:04:23.738Z",
+  "report": [
+    {
+      "ticker": "ES",
+      "xmlSize": 1400848570,
+      "jsonSize": 17017694,
+      "gzSize": 2361077,
+      "savingsPct": "99.8",
+      "sessions": 5339,
+      "has1Min": true
+    },
+    {
+      "ticker": "NQ",
+      "xmlSize": 1396304142,
+      "jsonSize": 17095641,
+      "gzSize": 2465885,
+      "savingsPct": "99.8",
+      "sessions": 5344,
+      "has1Min": true
+    },
+    {
+      "ticker": "YM",
+      "xmlSize": 1403316257,
+      "jsonSize": 16076289,
+      "gzSize": 2362896,
+      "savingsPct": "99.8",
+      "sessions": 5326,
+      "has1Min": true
+    },
+    {
+      "ticker": "CL",
+      "xmlSize": 1251633096,
+      "jsonSize": 14326623,
+      "gzSize": 2076680,
+      "savingsPct": "99.8",
+      "sessions": 4700,
+      "has1Min": true
+    },
+    {
+      "ticker": "GC",
+      "xmlSize": 782559348,
+      "jsonSize": 9211263,
+      "gzSize": 1281356,
+      "savingsPct": "99.8",
+      "sessions": 2935,
+      "has1Min": true
+    },
+    {
+      "ticker": "RTY",
+      "xmlSize": 636191288,
+      "jsonSize": 7432975,
+      "gzSize": 1114750,
+      "savingsPct": "99.8",
+      "sessions": 2389,
+      "has1Min": true
+    }
+  ]
+}
