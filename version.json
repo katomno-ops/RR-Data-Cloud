@@ -1,6 +1,6 @@
 {
-  "version": "2026.10.27.1304",
-  "timestamp": "2026-10-27T18:04:23.738Z",
+  "version": "2026.11.12.0914",
+  "timestamp": "2026-11-12T15:14:44.188Z",
   "report": [
     {
       "ticker": "ES",
@@ -14,8 +14,8 @@
     {
       "ticker": "NQ",
       "xmlSize": 1396304142,
-      "jsonSize": 17095641,
-      "gzSize": 2465885,
+      "jsonSize": 17109076,
+      "gzSize": 2459936,
       "savingsPct": "99.8",
       "sessions": 5344,
       "has1Min": true
@@ -23,8 +23,8 @@
     {
       "ticker": "YM",
       "xmlSize": 1403316257,
-      "jsonSize": 16076289,
-      "gzSize": 2362896,
+      "jsonSize": 16061544,
+      "gzSize": 2366531,
       "savingsPct": "99.8",
       "sessions": 5326,
       "has1Min": true
@@ -50,8 +50,8 @@
     {
       "ticker": "RTY",
       "xmlSize": 636191288,
-      "jsonSize": 7432975,
-      "gzSize": 1114750,
+      "jsonSize": 7496806,
+      "gzSize": 1126967,
       "savingsPct": "99.8",
       "sessions": 2389,
       "has1Min": true
